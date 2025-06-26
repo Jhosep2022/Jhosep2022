@@ -88,8 +88,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://raw.githubusercontent.com/Bouaskaoun/Bouaskaoun/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 <!--profile visit count-->
