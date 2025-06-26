@@ -87,7 +87,10 @@
 
 
 <!--- snake -->
-![Snake animation](https://github.com/Jhosep2022/Jhosep2022/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jhosep2022/Jhosep2022/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 <!--profile visit count-->
 <div align="center">
